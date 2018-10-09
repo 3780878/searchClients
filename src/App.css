@@ -1,0 +1,52 @@
+@font-face{
+    font-family: Krub;
+    src: url('https://fonts.googleapis.com/css?family=Krub');
+   }
+
+
+/*list styles*/
+.descripList{
+    margin-top: 0 !important;
+}
+.hedList{
+    font-size: 16px !important;
+}
+/*end of list styles*/
+
+/*details styles*/
+.clientImage{
+    width: 128px;
+    height: 128px;
+    box-shadow: 0 0 7px 1px darkgrey;
+    float: left;
+    padding: 1px;
+    margin: 20px;
+}
+.hedDetails{
+    color: rgb(31, 31, 31);
+    font-size: 33px;
+    padding-bottom: 8px;
+   
+}
+.textClient{
+    padding-top: 25px;
+}
+.segment{
+    min-height: 250px;
+}
+
+.descripDetails{
+    font-size: 17px;
+    padding-top: 3px;
+    font-family: Krub;
+}
+.extra{
+  padding: 2px 0;
+  font-style: italic;
+}
+.fas{
+  font-size: 13px;
+  color: #ccc;
+}
+
+/*end of details styles*/
